@@ -43,3 +43,24 @@
   font-family: "Atomic", cursive;
   font-weight: 400;
 }
+
+/* VARIABLES */
+:root {
+  --bg-color: #121600;
+  --color-accent: #d5ff00;
+}
+
+/* GENERAL STYLES */
+body {
+  background-color: var(--bg-color);
+}
+
+.color-accent {
+  color: var(--color-accent);
+}
+
+/* COMPONENTS STYLES */
+/* HERO */
+.logo-velada {
+  filter: drop-shadow(0px 0px 50px rgba(0, 0, 0, 1));
+}
