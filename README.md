@@ -1,8 +1,6 @@
-# React + Vite
+# La Velada del Año 3 - Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto consiste en un clon de la landing page del evento "La Velada del Año 3", desarrollado utilizando React, una popular biblioteca de JavaScript para la construcción de interfaces de usuario.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Objetivo del Proyecto:
+El objetivo principal de este proyecto es recrear la landing page del evento "La Velada del Año 3" con el fin de mostrar habilidades en el desarrollo front-end utilizando React. Se busca crear una réplica fiel de la página original, manteniendo su diseño, funcionalidades y estilos visuales.
