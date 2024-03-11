@@ -48,6 +48,8 @@
 :root {
   --bg-color: #121600;
   --color-accent: #d5ff00;
+  --color-twitch: #9146ff;
+  --color-twitch-ice: #f0f0ff;
 }
 
 /* GENERAL STYLES */

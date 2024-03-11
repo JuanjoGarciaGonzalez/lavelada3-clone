@@ -6,7 +6,7 @@ import { BgVelada } from './BgVelada'
 
 export const Hero = () => {
   return (
-      <section className='h-[100dvh] flex flex-col justify-center items-center'>
+      <section className='my-[50px] md:my-[150px] flex flex-col justify-center items-center'>
         <div className='relative flex flex-col justify-center items-center gap-8'>
           <a href='https://www.twitch.tv/ibai' target='_blank' className='atomic text-white text-center relative -rotate-6 font-atomic text-2xl underline-offset-8 transition hover:scale-110 md:text-4xl'><span>twitch.tv/ibai</span></a>
           <LogoVelada />
