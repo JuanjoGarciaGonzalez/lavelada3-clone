@@ -2,8 +2,8 @@ import React from 'react'
 
 export const TwitchBanner = () => {
   return (
-    <section className='relative my-[50px] md:my-[100px]'>
-        <a href='https://www.twitch.tv/ibai' target='_blank' className='flex flex-col justify-center items-center group'>
+    <section className='relative my-[50px] md:my-[100px] flex'>
+        <a href='https://www.twitch.tv/ibai' target='_blank' className='inline-flex mx-auto flex-col justify-center items-center group'>
             <hr className='h-[2px] min-w-[20rem] max-w-lg border-t-0 bg-transparent bg-gradient-to-r from-transparent via-white to-transparent sm:w-full mb-[50px]' />
             <svg
                 fill="none"
